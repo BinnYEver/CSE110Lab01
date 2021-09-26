@@ -48,4 +48,4 @@ My todo List:<br>
 - Seeking out the 2022 Summer intern
 - Finishing my master degree in Computer Science
 
-![Let's go tritons!](UCSE110Lab01/UCSD image.png)
+![Let's go tritons!](/UCSD image.png)
