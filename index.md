@@ -48,7 +48,7 @@ My todo List:<br>
 - Seeking out the 2022 Summer intern
 - Finishing my master degree in Computer Science
 
-![Let's go tritons!](/UCSD image.png)
-<img src="UCSD image.png"
+
+<img src="images/UCSD image.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
